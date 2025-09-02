@@ -1,7 +1,7 @@
 # Database System Practice
 
 This repository contains my coursework projects for the **Introduction to Databases** course at Nanjing University.  
-It is based on the [NJU_DBPractice framework](https://github.com/nju-websoft/NJU_DBPractice), with my own implementations for buffer management and query execution.
+It is based on the [NJU_DBPractice](https://github.com/nju-websoft/NJU_DBPractice) framework, with my own implementations for buffer management and query execution.
 
 ## 📂 Labs Overview
 
@@ -21,14 +21,12 @@ It is based on the [NJU_DBPractice framework](https://github.com/nju-websoft/NJU
 - Covered core concepts of relational query execution pipelines
 
 ## 🛠️ Tech Stack
-- C++  
-- Flex & Bison (for SQL parsing)  
-- Data structures & algorithms for query execution  
+- **C++17** for core implementation
+- **CMake** for build configuration 
 
 ## 📖 Learning Outcome
 - Gained hands-on experience in database internals  
-- Learned how SQL queries are parsed, optimized, and executed  
-- Built a working prototype of a mini relational DBMS
+- Practical understanding of buffer management, indexing, and query processing 
 
 ## 📖 Documentation
 Detailed lab reports are provided in the repo:  
