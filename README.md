@@ -21,10 +21,14 @@ It is based on the [NJU_DBPractice framework](https://github.com/nju-websoft/NJU
 - Covered core concepts of relational query execution pipelines
 
 ## 🛠️ Tech Stack
-- C++17
-- STL containers (`unordered_map`, `vector`, `list`)  
-- Concurrency primitives (`std::scoped_lock`)  
-- Object-oriented design and modular implementation
+- C++  
+- Flex & Bison (for SQL parsing)  
+- Data structures & algorithms for query execution  
+
+## 📖 Learning Outcome
+- Gained hands-on experience in database internals  
+- Learned how SQL queries are parsed, optimized, and executed  
+- Built a working prototype of a mini relational DBMS
 
 ## 📖 Documentation
 Detailed lab reports are provided in the repo:  
