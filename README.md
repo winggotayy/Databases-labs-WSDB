@@ -24,7 +24,7 @@ It is based on the [NJU_DBPractice](https://github.com/nju-websoft/NJU_DBPractic
 - **C++17** for core implementation
 - **CMake** for build configuration 
 
-## 📖 Learning Outcome
+## 📖 Learning Outcomes
 - Gained hands-on experience in database internals  
 - Practical understanding of buffer management, indexing, and query processing 
 
