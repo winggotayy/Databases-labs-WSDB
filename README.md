@@ -1,4 +1,4 @@
-# Databases-labs-WSDB
+# Database System Practice
 
 This repository contains my coursework projects for the **Introduction to Databases** course at Nanjing University.  
 It is based on the [NJU_DBPractice framework](https://github.com/nju-websoft/NJU_DBPractice), with my own implementations for buffer management and query execution.
